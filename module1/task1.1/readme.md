@@ -1,3 +1,9 @@
+# Report
+
+## Step 1: Install GIT on your workstation
+I've downloaded GIT bash by the following [link](https://git-scm.com/downloads) 
+## Step 2: Setup git: change yout global configs (add name and e-mail, setup core text editor
+
 # Results of my work
 
 * Learned how to do a basic git setup
