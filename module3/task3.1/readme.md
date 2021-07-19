@@ -1,6 +1,8 @@
 # Task 3.1 Report
 ## PART 1
 ### 1.1 Install MySQL server on VM
+I used `sudo apt install mysql-server` to install MySQL Server 
+And `sudo mysql_secure_installation` to setup basic security parameters, such as root user password
 ### 1.2 Create database schema
 ![](Screenshots/Screen1.png)
 ### 1.3 Create database on server via console
