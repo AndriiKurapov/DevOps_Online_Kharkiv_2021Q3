@@ -1,0 +1,115 @@
+[33mcommit 5668b1e64bae15e5bdf05b0a33b13ad8c4a94915[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: AndriiKurapov <andreykawwee@gmail.com>
+Date:   Mon Jul 19 22:08:44 2021 +0300
+
+    Added Step 1 in Task 3.1 report
+
+[33mcommit b5912b9f834235d6d4333398506aff9f6a4115f0[m
+Author: AndriiKurapov <andreykawwee@gmail.com>
+Date:   Mon Jul 19 22:01:36 2021 +0300
+
+    Added Task 3.1 Report
+
+[33mcommit 579879ba0ed0f54b9de371d1a5c46b8d28ad5631[m
+Author: AndriiKurapov <andreykawwee@gmail.com>
+Date:   Fri Jul 16 13:01:40 2021 +0300
+
+    added task 2.2 report
+
+[33mcommit 46253f081c58075a639ba347e88b195e26979f64[m
+Author: AndriiKurapov <andreykawwee@gmail.com>
+Date:   Thu Jul 8 21:32:49 2021 +0300
+
+    Added Task 2.1 Report
+
+[33mcommit d7e81e5e23b9179fa52e8549b41f95d0a18f4adb[m
+Author: AndriiKurapov <andreykawwee@gmail.com>
+Date:   Sun Jul 4 20:04:29 2021 +0300
+
+    Task report is done!
+
+[33mcommit dadef5599585a2a3203c0c024d6c7666e49cebf5[m
+Author: AndriiKurapov <andreykawwee@gmail.com>
+Date:   Sun Jul 4 17:19:30 2021 +0300
+
+    Added screenshot folder for my work report
+
+[33mcommit 580e45bd75759bfb06acde450c33824dceb6c3f4[m
+Author: AndriiKurapov <andreykawwee@gmail.com>
+Date:   Sun Jul 4 15:47:16 2021 +0300
+
+    Added Steps 1 and 2 of my work report
+
+[33mcommit 14c9d8429ee4789ad435d53385e2996f9499e780[m
+Author: AndriiKurapov <86830722+AndriiKurapov@users.noreply.github.com>
+Date:   Sun Jul 4 12:55:28 2021 +0300
+
+    Update readme.md
+
+[33mcommit dc4b44d8d3adbe3f0c86efce82f5b226c508006b[m
+Author: AndriiKurapov <86830722+AndriiKurapov@users.noreply.github.com>
+Date:   Sun Jul 4 12:39:03 2021 +0300
+
+    Update readme.md
+
+[33mcommit 927923a50b11233d3e4039484bf15144c99416c7[m
+Author: AndriiKurapov <86830722+AndriiKurapov@users.noreply.github.com>
+Date:   Sat Jul 3 18:53:47 2021 +0300
+
+    Update readme.md
+
+[33mcommit 3ff7f58e06a7ec1a692d6018342f2fb66c1ef0ce[m
+Author: AndriiKurapov <andreykawwee@gmail.com>
+Date:   Sat Jul 3 18:45:07 2021 +0300
+
+    Created file readme.md with my work results and my text about DevOps
+
+[33mcommit 27b19013ed3535002f7111b2b7ef9dfbe4fe9061[m
+Author: AndriiKurapov <andreykawwee@gmail.com>
+Date:   Sat Jul 3 17:13:19 2021 +0300
+
+    Added file task1.1_GIT.txt which contains reflog information
+
+[33mcommit 939dc9858d9066c5d735ddc530a2366108e962cd[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Merge: 541ee46 7eadc68
+Author: AndriiKurapov <andreykawwee@gmail.com>
+Date:   Sat Jul 3 14:49:20 2021 +0300
+
+    Merge branch 'styles' into develop
+    Merge conflict succesfully solved!
+
+[33mcommit 7eadc68d7d6484eeebd4fb6a65e5afe78426c63a[m[33m ([m[1;31morigin/styles[m[33m, [m[1;32mstyles[m[33m)[m
+Author: AndriiKurapov <andreykawwee@gmail.com>
+Date:   Sat Jul 3 14:33:04 2021 +0300
+
+    Index.html modified
+
+[33mcommit 6270de9a87a6ae5fd081e4088891f647383ed734[m
+Author: AndriiKurapov <andreykawwee@gmail.com>
+Date:   Sat Jul 3 14:26:48 2021 +0300
+
+    Added file styles.css with style in it
+
+[33mcommit 541ee4649d94018337c8a79fe561f33d10161da7[m[33m ([m[1;31morigin/images[m[33m, [m[1;32mimages[m[33m)[m
+Author: AndriiKurapov <andreykawwee@gmail.com>
+Date:   Sat Jul 3 13:57:00 2021 +0300
+
+    file index.html modified, img sources added
+
+[33mcommit e9425bc1aa306d7afe24239211bce14415e9f06f[m
+Author: AndriiKurapov <andreykawwee@gmail.com>
+Date:   Sat Jul 3 13:38:32 2021 +0300
+
+    Created images folder with some images in it!
+
+[33mcommit 8b60d80f66d1dab5bfaf670373960cd61ec51fe8[m
+Author: AndriiKurapov <andreykawwee@gmail.com>
+Date:   Sat Jul 3 13:16:58 2021 +0300
+
+    Created develop branch, created empty file index.html in this branch
+
+[33mcommit dd28ed9aa04a184135e4d8faa3f3c1e2485501e2[m
+Author: AndriiKurapov <andreykawwee@gmail.com>
+Date:   Sat Jul 3 13:10:56 2021 +0300
+
+    Created empty readme.txt
