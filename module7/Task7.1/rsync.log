@@ -1,0 +1,1363 @@
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+.d          ./
+.d          folder1/
+>f..T...... folder1/script2
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 258 bytes  received 113 bytes  742.00 bytes/sec
+total size is 105  speedup is 0.28
+Sun 29 Aug 2021 04:34:06 PM EEST
+Sun 29 Aug 2021 04:35:03 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+.d          ./
+.d          folder1/
+>f..T...... folder1/script2
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 258 bytes  received 113 bytes  742.00 bytes/sec
+total size is 105  speedup is 0.28
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+.d          ./
+.d          folder1/
+>f..T...... folder1/script2
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 258 bytes  received 113 bytes  742.00 bytes/sec
+total size is 105  speedup is 0.28
+Sun 29 Aug 2021 04:35:43 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 248 bytes  received 103 bytes  702.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 04:36:05 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 248 bytes  received 103 bytes  702.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 04:37:19 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 248 bytes  received 103 bytes  702.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 04:43:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f+++++++++ apache_logs
+         32,768   1%    0.00kB/s    0:00:00        2,370,789 100%  117.35MB/s    0:00:00 (xfr#1, to-chk=3/5)
+>f+++++++++ script2.sh
+          1,096 100%   56.33kB/s    0:00:00            1,096 100%   56.33kB/s    0:00:00 (xfr#2, to-chk=2/5)
+>f..T...... folder1/script2
+            105 100%    5.40kB/s    0:00:00              105 100%    5.40kB/s    0:00:00 (xfr#3, to-chk=0/5)
+total: matches=0  hash_hits=0  false_alarms=0 data=2371990
+
+sent 2,372,862 bytes  received 145 bytes  4,746,014.00 bytes/sec
+total size is 2,371,990  speedup is 1.00
+Sun 29 Aug 2021 04:44:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... apache_logs
+         32,768   1%    0.00kB/s    0:00:00        2,370,789 100%  101.35MB/s    0:00:00 (xfr#1, to-chk=3/5)
+>f..T...... script2.sh
+          1,096 100%   48.65kB/s    0:00:00            1,096 100%   48.65kB/s    0:00:00 (xfr#2, to-chk=2/5)
+>f..T...... folder1/script2
+            105 100%    4.66kB/s    0:00:00              105 100%    4.66kB/s    0:00:00 (xfr#3, to-chk=0/5)
+total: matches=0  hash_hits=0  false_alarms=0 data=2371990
+
+sent 2,372,862 bytes  received 145 bytes  4,746,014.00 bytes/sec
+total size is 2,371,990  speedup is 1.00
+Sun 29 Aug 2021 04:45:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... apache_logs
+         32,768   1%    0.00kB/s    0:00:00        2,370,789 100%  139.36MB/s    0:00:00 (xfr#1, to-chk=3/5)
+>f..T...... script2.sh
+          1,096 100%   66.89kB/s    0:00:00            1,096 100%   66.89kB/s    0:00:00 (xfr#2, to-chk=2/5)
+>f..T...... folder1/script2
+            105 100%    6.41kB/s    0:00:00              105 100%    6.41kB/s    0:00:00 (xfr#3, to-chk=0/5)
+total: matches=0  hash_hits=0  false_alarms=0 data=2371990
+
+sent 2,372,862 bytes  received 145 bytes  4,746,014.00 bytes/sec
+total size is 2,371,990  speedup is 1.00
+Sun 29 Aug 2021 04:46:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... apache_logs
+         32,768   1%    0.00kB/s    0:00:00        2,370,789 100%  139.36MB/s    0:00:00 (xfr#1, to-chk=3/5)
+>f..T...... script2.sh
+          1,096 100%   66.89kB/s    0:00:00            1,096 100%   66.89kB/s    0:00:00 (xfr#2, to-chk=2/5)
+>f..T...... folder1/script2
+            105 100%    6.41kB/s    0:00:00              105 100%    6.41kB/s    0:00:00 (xfr#3, to-chk=0/5)
+total: matches=0  hash_hits=0  false_alarms=0 data=2371990
+
+sent 2,372,862 bytes  received 145 bytes  4,746,014.00 bytes/sec
+total size is 2,371,990  speedup is 1.00
+Sun 29 Aug 2021 04:47:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f+++++++++ apache_logs
+         32,768   1%    0.00kB/s    0:00:00        2,370,789 100%   71.93MB/s    0:00:00 (xfr#1, to-chk=3/5)
+>f+++++++++ script2.sh
+          1,096 100%   33.45kB/s    0:00:00            1,096 100%   33.45kB/s    0:00:00 (xfr#2, to-chk=2/5)
+>f..T...... folder1/script2
+            105 100%    3.20kB/s    0:00:00              105 100%    3.20kB/s    0:00:00 (xfr#3, to-chk=0/5)
+total: matches=0  hash_hits=0  false_alarms=0 data=2371990
+
+sent 2,372,862 bytes  received 145 bytes  4,746,014.00 bytes/sec
+total size is 2,371,990  speedup is 1.00
+Sun 29 Aug 2021 04:48:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... apache_logs
+         32,768   1%    0.00kB/s    0:00:00        2,370,789 100%  148.65MB/s    0:00:00 (xfr#1, to-chk=3/5)
+>f..T...... script2.sh
+          1,096 100%   71.35kB/s    0:00:00            1,096 100%   71.35kB/s    0:00:00 (xfr#2, to-chk=2/5)
+>f..T...... folder1/script2
+            105 100%    6.84kB/s    0:00:00              105 100%    6.84kB/s    0:00:00 (xfr#3, to-chk=0/5)
+total: matches=0  hash_hits=0  false_alarms=0 data=2371990
+
+sent 2,372,862 bytes  received 145 bytes  4,746,014.00 bytes/sec
+total size is 2,371,990  speedup is 1.00
+Sun 29 Aug 2021 04:49:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... apache_logs
+         32,768   1%    0.00kB/s    0:00:00        2,370,789 100%  131.16MB/s    0:00:00 (xfr#1, to-chk=3/5)
+>f..T...... script2.sh
+          1,096 100%   62.96kB/s    0:00:00            1,096 100%   62.96kB/s    0:00:00 (xfr#2, to-chk=2/5)
+>f..T...... folder1/script2
+            105 100%    6.03kB/s    0:00:00              105 100%    6.03kB/s    0:00:00 (xfr#3, to-chk=0/5)
+total: matches=0  hash_hits=0  false_alarms=0 data=2371990
+
+sent 2,372,862 bytes  received 145 bytes  1,582,004.67 bytes/sec
+total size is 2,371,990  speedup is 1.00
+Sun 29 Aug 2021 04:50:02 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+*deleting   script2.sh
+*deleting   apache_logs
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 132 bytes  758.00 bytes/sec
+total size is 105  speedup is 0.28
+Sun 29 Aug 2021 04:51:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 04:52:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 04:53:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 04:54:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 04:55:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 04:56:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 04:57:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 04:58:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 04:59:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:00:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:01:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:02:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:03:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:04:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:05:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:06:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:07:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:08:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:09:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:10:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:11:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:12:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:13:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:14:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:15:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:16:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:17:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:18:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:19:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:20:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:21:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:22:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:23:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:24:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:25:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:26:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:27:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:28:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:29:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:30:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:31:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:32:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:33:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:34:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:35:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:36:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:37:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:38:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:39:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:40:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:41:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:42:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:43:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:44:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:45:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:46:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:47:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:48:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:49:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:50:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:51:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:52:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:53:02 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:54:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:55:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:56:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:57:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:58:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 05:59:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:00:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:01:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:02:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:03:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:04:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:05:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:06:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:07:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:08:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:09:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:10:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:11:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:12:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:13:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:14:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:15:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:16:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:17:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:18:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:19:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:20:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:21:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:22:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:23:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:24:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:25:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:26:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:27:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:28:02 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:29:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:30:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:31:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:32:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:33:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:34:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:35:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:36:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:37:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:38:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:39:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:40:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:41:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:42:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:43:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:44:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:45:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:46:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:47:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:48:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:49:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:50:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:51:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:52:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:53:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:54:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:55:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:56:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:57:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:58:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 06:59:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 07:00:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 07:01:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 07:02:01 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Sun 29 Aug 2021 07:03:01 PM EEST
+sending incremental file list
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+
+sent 247 bytes  received 36 bytes  566.00 bytes/sec
+total size is 105  speedup is 0.37
+Mon 30 Aug 2021 02:31:50 PM EEST
+sending incremental file list
+delta-transmission disabled for local transfer or --whole-file
+>f..T...... folder1/script2
+            105 100%    0.00kB/s    0:00:00              105 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/3)
+total: matches=0  hash_hits=0  false_alarms=0 data=105
+
+sent 247 bytes  received 103 bytes  700.00 bytes/sec
+total size is 105  speedup is 0.30
+Mon 30 Aug 2021 02:32:22 PM EEST

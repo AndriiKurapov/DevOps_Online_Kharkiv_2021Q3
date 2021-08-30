@@ -22,3 +22,9 @@ https://raw.githubusercontent.com/elastic/examples/master/Common%20Data%20Format
 
 In case of adding new or deleting old files, the script must add a corresponding entry to the log file indicating the time, type of operation and file name. 
 [The command to run the script must be added to crontab with a run frequency of one minute]
+
+Added script to a crontab
+
+![](Script3/S1.png)
+
+![](Script3/S2.png)
